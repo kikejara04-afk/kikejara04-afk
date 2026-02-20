@@ -40,7 +40,7 @@
   <img src="https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711" alt="Ciudad Futurista" width="600">
 </p>
 
-# 👾 KikeNator - Perfil
+# 👾 KikeNator - Perfil Profesional
 
 ¡Hola! Soy **KikeNator**, un desarrollador apasionado por la tecnología futurista, la IA y el diseño cyberpunk. Este es mi espacio en GitHub donde comparto proyectos innovadores, ideas disruptivas y contribuciones al mundo open-source.
 
