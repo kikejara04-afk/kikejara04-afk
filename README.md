@@ -1,175 +1,69 @@
-<style>
-  body {
-    background-color: #0d1117;
-    color: #c9d1d9;
-  }
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220" alt="Purple coding vibe">
+  <br><br>
+  <h1>¡Bienvenido / Welcome to Enrique's GitHub Profile! 🚀</h1>
+</p>
 
-  .welcome-container {
-    text-align: center;
-    margin: 40px 0 50px;
-    padding: 30px;
-    background: linear-gradient(135deg, #5e35b1, #0288d1);
-    border-radius: 16px;
-    box-shadow: 0 10px 40px rgba(94, 53, 177, 0.4);
-    animation: subtle-pulse 7s ease-in-out infinite;
-  }
+<p align="center">
+  <i>Full-stack developer from Bogotá, Colombia 🇨🇴</i><br>
+  Building clean & functional web projects with <b>Python</b> (backend/logic), <b>HTML + CSS</b> (frontend), and <b>Git/GitHub</b> (version control).
+</p>
 
-  @keyframes subtle-pulse {
-    0%, 100% { transform: scale(1); opacity: 0.95; }
-    50%      { transform: scale(1.02); opacity: 1; }
-  }
+<p align="center">
+  ────────✦─────── <b style="color:#9f7aea;">✦</b> ────────✦───────
+</p>
 
-  .welcome {
-    font-size: 3.8em;
-    font-weight: bold;
-    background: linear-gradient(90deg, #ab47bc, #26c6da, #ab47bc);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-size: 200% auto;
-    animation: text-gradient 6s linear infinite;
-  }
+### 🌟 Core Technologies
 
-  @keyframes text-gradient {
-    0%   { background-position: 0% center; }
-    100% { background-position: 200% center; }
-  }
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*6Dj1fKX34rmSH-C32FqgZQ.gif" width="55" alt="Python"> <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1513529367/awbyfdncmghuxyq16xzq.gif" width="55" alt="HTML"> <b>HTML</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.dribbble.com/userupload/23162774/file/original-1270eb6b7b119320d9c636aa07c70f8b.gif" width="55" alt="CSS"> <b>CSS</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*ZfQc3rU1MYnVTBOwg7DQkg.gif" width="55" alt="Git"> <b>Git</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.dribbble.com/userupload/21226972/file/original-a434230e03daba1fb51e8f6e78e94aa2.gif" width="55" alt="GitHub"> <b>GitHub</b>
+</p>
 
-  h2 {
-    color: #ab47bc;
-    border-left: 6px solid #26c6da;
-    padding-left: 12px;
-    margin-top: 50px;
-  }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kikejara04-afk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=c9d1d9&icon_color=9f7aea" alt="GitHub Stats - Radical Purple Theme">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikejara04-afk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=c9d1d9" alt="Top Languages - Radical Purple">
+</p>
 
-  .moving-line {
-    height: 5px;
-    background: linear-gradient(to right, #7b1fa2, #00bcd4, #7b1fa2, #00bcd4);
-    background-size: 300% 100%;
-    border: none;
-    margin: 35px 0;
-    animation: move-gradient 8s linear infinite;
-  }
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kikejara04-afk&theme=radical&hide_border=true&background=0d1117&stroke=9f7aea&ring=9f7aea&fire=9f7aea&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Contribution Streak - Purple Gradient">
+</p>
 
-  @keyframes move-gradient {
-    0%   { background-position: 0% 50%; }
-    100% { background-position: 300% 50%; }
-  }
+<p align="center">
+  ────────✦─────── <b style="color:#9f7aea;">✦</b> ────────✦───────
+</p>
 
-  .skills-container {
-    display: flex;
-    flex-direction: column;
-    gap: 28px;
-    max-width: 700px;
-    margin: 40px auto;
-  }
+### 🌟 Main Work / Showcase
 
-  .skill-item {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    font-size: 1.4em;
-    font-weight: 500;
-    color: #e0e0e0;
-    padding: 12px 20px;
-    border-radius: 12px;
-    background: rgba(30, 30, 50, 0.6);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
+<p align="center">
+  <a href="https://github.com/kikejara04-afk/Kike">
+    <b>Kike</b> — Personal showcase, experiments & main projects
+  </a>
+  <br>
+  Feel free to explore, fork or star! ⭐
+</p>
 
-  .skill-item:hover {
-    transform: translateX(10px);
-    box-shadow: 0 8px 25px rgba(171, 71, 188, 0.35);
-  }
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="180" alt="Purple-ish animated separator">
+</p>
 
-  .skill-icon {
-    width: 70px;
-    height: 70px;
-    object-fit: contain;
-    flex-shrink: 0;
-    border-radius: 12px;
-    background: rgba(20, 20, 40, 0.8);
-    padding: 8px;
-  }
+### 📫 Connect
 
-  a {
-    color: #ce93d8;
-  }
+<p align="center">
+  ✉️ <a href="mailto:kikejara04@gmail.com">kikejara04@gmail.com</a><br>
+  📸 <a href="https://www.instagram.com/ej.escobar_?igsh=MTh4ZHJjYTBjNmkyeQ==" target="_blank">Instagram @ej.escobar_</a><br>
+  🎮 <a href="https://youtube.com/@kikenatorgameplay?si=bLK8JP50DSv6lEjq" target="_blank">YouTube @kikenatorgameplay</a><br>
+  📍 Bogotá, Colombia
+</p>
 
-  a:hover {
-    color: #80deea;
-  }
+<p align="center">
+  Open to feedback, collabs, or just saying hi! ✨
+</p>
 
-  .contact-list {
-    list-style: none;
-    padding: 0;
-    font-size: 1.2em;
-  }
-
-  .contact-list li {
-    margin: 14px 0;
-  }
-</style>
-
-<div class="welcome-container">
-  <div class="welcome">Welcome to Enrique's GitHub Profile 🚀</div>
-</div>
-
-I'm a developer from **Bogotá, Colombia** 🇨🇴  
-Focused on clean, functional web projects using Python for logic/backend, HTML + CSS for structure & styling, and Git/GitHub for version control.
-
-<div class="moving-line"></div>
-
-## Core Technologies
-
-<div class="skills-container">
-
-  <div class="skill-item">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycjA4eHZyZWxzM3FpdG1iZzVwd3FwcnA2a3g2bmppZjZmMnVoNjVhNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" alt="Python animated" class="skill-icon">
-    Python
-  </div>
-
-  <div class="skill-item">
-    <img src="https://steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1513529367/awbyfdncmghuxyq16xzq.gif" alt="HTML animated" class="skill-icon">
-    HTML
-  </div>
-
-  <div class="skill-item">
-    <img src="https://cdn.dribbble.com/userupload/23162774/file/original-1270eb6b7b119320d9c636aa07c70f8b.gif" alt="CSS animated" class="skill-icon">
-    CSS
-  </div>
-
-  <div class="skill-item">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*ZfQc3rU1MYnVTBOwg7DQkg.gif" alt="Git animated" class="skill-icon">
-    Git
-  </div>
-
-  <div class="skill-item">
-    <img src="https://cdn.dribbble.com/userupload/21226972/file/original-a434230e03daba1fb51e8f6e78e94aa2.gif" alt="GitHub Octocat animated" class="skill-icon">
-    GitHub
-  </div>
-
-</div>
-
-<div class="moving-line"></div>
-
-## 🌟 Main Work
-
-→ **[Kike](https://github.com/kikejara04-afk/Kike)**  
-Personal showcase, experiments, and main projects — feel free to explore & star!
-
-<div class="moving-line"></div>
-
-## 📫 Connect
-
-<ul class="contact-list">
-  <li>✉️ <a href="mailto:kikejara04@gmail.com">kikejara04@gmail.com</a></li>
-  <li>📸 <a href="https://www.instagram.com/ej.escobar_?igsh=MTh4ZHJjYTBjNmkyeQ==" target="_blank">Instagram @ej.escobar_</a></li>
-  <li>🎮 <a href="https://youtube.com/@kikenatorgameplay?si=bLK8JP50DSv6lEjq" target="_blank">YouTube @kikenatorgameplay</a></li>
-  <li>📍 Bogotá, Colombia</li>
-</ul>
-
-Open to feedback, ideas, or collaborations!
-
-<div class="moving-line"></div>
-
-Thanks for visiting ✨
+<p align="center">
+  Thanks for visiting! 💜
+</p>
