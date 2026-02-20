@@ -1,20 +1,51 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=600&lines=Bienvenido+al+Perfil+de+KikeNator;Explorador+del+Futuro+Digital" alt="Texto Animado">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=8A2BE2&background=00000000&center=true&vCenter=true&width=600&lines=Bienvenido+al+Perfil+de+KikeNator;Explorador+del+Futuro+Digital" alt="Texto Animado">
 </p>
 
-<hr style="border: 2px solid #FF0000;"> <!-- Línea roja -->
-<hr style="border: 2px solid #808080;"> <!-- Línea gris -->
+<style>
+@keyframes gradient {
+    0% { background-position: 0%; }
+    100% { background-position: 200%; }
+}
+.moving-line-purple {
+    height: 2px;
+    background: linear-gradient(to right, #800080, #00FFFF, #800080);
+    background-size: 200% 100%;
+    animation: gradient 5s linear infinite;
+}
+.moving-line-cyan {
+    height: 2px;
+    background: linear-gradient(to right, #00FFFF, #800080, #00FFFF);
+    background-size: 200% 100%;
+    animation: gradient 5s linear infinite;
+}
+.dashed-moving-line-purple {
+    height: 1px;
+    background: repeating-linear-gradient(to right, #800080 0, #800080 10px, transparent 10px, transparent 20px);
+    background-size: 200% 100%;
+    animation: gradient 5s linear infinite;
+}
+.dashed-moving-line-cyan {
+    height: 1px;
+    background: repeating-linear-gradient(to right, #00FFFF 0, #00FFFF 10px, transparent 10px, transparent 20px);
+    background-size: 200% 100%;
+    animation: gradient 5s linear infinite;
+}
+</style>
+
+<div class="moving-line-purple"></div>
+<div class="moving-line-cyan"></div>
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/211/211748.gif" alt="Ciudad Futurista" width="600">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711" alt="Ciudad Futurista" width="600">
 </p>
 
-# 👾 KikeNator - Perfil Profesional
+# 👾 KikeNator - Perfil
 
 ¡Hola! Soy **KikeNator**, un desarrollador apasionado por la tecnología futurista, la IA y el diseño cyberpunk. Este es mi espacio en GitHub donde comparto proyectos innovadores, ideas disruptivas y contribuciones al mundo open-source.
 
-<hr style="border: 1px dashed #FF0000;"> <!-- Línea roja dashed -->
-<hr style="border: 1px dashed #808080;"> <!-- Línea gris dashed -->
+<div class="dashed-moving-line-purple"></div>
+<div class="dashed-moving-line-cyan"></div>
 
 ## 🚀 Sobre Mí
 
@@ -23,38 +54,38 @@
 - **Intereses:** Diseñador Web, Diseño Gráfico 3D, Canta/Autor, Creador de Contenido, Modelo, Apasionado por los Videojuegos
 
 <p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/076/483/835/original/simon-jacob-redcomet-passes.gif?1717079821" alt="Nave Espacial Futurista" width="400">
+  <img src="https://thumbs.dreamstime.com/b/step-futuristic-neon-tunnel-vibrant-lighting-blend-modern-urban-elements-mesmerizing-adorned-dynamic-lights-328874218.jpg" alt="Nave Espacial Futurista" width="400">
 </p>
 
-<hr style="border: 2px solid #FF0000;"> <!-- Línea roja -->
-<hr style="border: 2px solid #808080;"> <!-- Línea gris -->
+<div class="moving-line-purple"></div>
+<div class="moving-line-cyan"></div>
 
 ## 🛠️ Habilidades
 
-Utilizo badges en tonos rojos y grises para resaltar mis skills:
+Utilizo badges en tonos morados y celestes para resaltar mis skills:
 
-![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-808080?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-00FFFF?style=for-the-badge&logo=git&logoColor=white)
 
-<hr style="border: 1px dashed #FF0000;"> <!-- Línea roja dashed -->
-<hr style="border: 1px dashed #808080;"> <!-- Línea gris dashed -->
+<div class="dashed-moving-line-purple"></div>
+<div class="dashed-moving-line-cyan"></div>
 
 ## 📁 Proyectos Destacados
 
 - **[Trabajó DDYA]**(https://github.com/kikejara04-afk/Kike) 
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/62ce5d829e01c60b7c148396/6964ce96af847f92396f8125_5eecdaf48460cde5168d798d8b874f4fc7228d1cc6f2c29475b8339e1c4c2483f728f271dbcdaa6639e8703ac5556d0d211a5b1947333f11a6944ff028cecb662617ac8c776979b158379f5ccadf2360d5b5d338bb882c2638d07168ac0cfd52.gif" alt="Ciudad Cyberpunk" width="600">
+  <img src="https://images.stockcake.com/public/5/4/5/545e049c-cc5e-4ecd-8c05-7284f8c52554/neon-cyberpunk-cityscape-stockcake.jpg" alt="Ciudad Cyberpunk" width="600">
 </p>
 
-<hr style="border: 2px solid #FF0000;"> <!-- Línea roja -->
-<hr style="border: 2px solid #808080;"> <!-- Línea gris -->
+<div class="moving-line-purple"></div>
+<div class="moving-line-cyan"></div>
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KikeNator&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KikeNator&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=KikeNator&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KikeNator&theme=dracula&hide_border=true" alt="GitHub Streak">
 </p>
 
 ## 📫 Contacto
@@ -66,9 +97,9 @@ Utilizo badges en tonos rojos y grises para resaltar mis skills:
 
 ¡Conéctate conmigo para colaboraciones futuristas!
 
-<hr style="border: 2px solid #FF0000;"> <!-- Línea roja final -->
-<hr style="border: 2px solid #808080;"> <!-- Línea gris final -->
+<div class="moving-line-purple"></div>
+<div class="moving-line-cyan"></div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hecho+con-❤️+por+KikeNator-FF0000?style=for-the-badge" alt="Hecho con amor">
+  <img src="https://img.shields.io/badge/Hecho+con-❤️+por+KikeNator-8A2BE2?style=for-the-badge" alt="Hecho con amor">
 </p>
