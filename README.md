@@ -1,3 +1,18 @@
+## 📊 Statistics
+
+<!-- your github stats / streak / top languages etc -->
+
+<br>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=header&gradient=true&gradientColors=7e22ce,8b5cf6,06b6d4,22d3ee" alt="slice gradient separator" width="100%"/>
+</div>
+<br>
+
+## 🛠️ Technologies & Tools
+
+<!-- icons / badges / list -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kikejara04-afk&theme=radical&hide_border=true&background=0d1117&stroke=9f7aea&ring=9f7aea&fire=9f7aea&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Contribution Streak - Purple Gradient">
@@ -7,7 +22,7 @@
   ────────✦─────── <b style="color:#9f7aea;">✦</b> ────────✦───────
 </p>
 
-### 📫 Connect
+### 📫 Social Media/ Contact
 
 <p align="center">
   <a href="mailto:kikejara04@gmail.com">
