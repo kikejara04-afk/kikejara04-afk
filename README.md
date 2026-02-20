@@ -19,9 +19,8 @@
 ## 🚀 Sobre Mí
 
 - **Nombre:** KikeNator
-- **Ubicación:** En el ciberespacio
-- **Intereses:** Inteligencia Artificial, Desarrollo Web, Ciberseguridad, Diseño Gráfico Futurista
-- **Lema:** "Codificando el mañana, un byte a la vez."
+- **Ubicación:** Colombia
+- **Intereses:** Diseñador Web, Diseño Gráfico 3D, Canta/Autor, Creador de Contenido, Modelo, Apasionado por los Videojuegos
 
 <p align="center">
   <img src="https://cdnb.artstation.com/p/assets/images/images/076/483/835/original/simon-jacob-redcomet-passes.gif?1717079821" alt="Nave Espacial Futurista" width="400">
@@ -34,11 +33,7 @@
 
 Utilizo badges en tonos rojos y grises para resaltar mis skills:
 
-![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-808080?style=for-the-badge&logo=javascript&logoColor=white)  
-![React](https://img.shields.io/badge/React-FF0000?style=for-the-badge&logo=react&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-808080?style=for-the-badge&logo=node.js&logoColor=white)  
-![AI](https://img.shields.io/badge/AI-FF0000?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-808080?style=for-the-badge&logo=git&logoColor=white)
 
 <hr style="border: 1px dashed #FF0000;"> <!-- Línea roja dashed -->
@@ -46,7 +41,7 @@ Utilizo badges en tonos rojos y grises para resaltar mis skills:
 
 ## 📁 Proyectos Destacados
 
-- **[Trabajó DDYA]() 
+- **[Trabajó DDYA]**(https://github.com/kikejara04-afk/Kike) 
 
 <p align="center">
   <img src="https://cdn.prod.website-files.com/62ce5d829e01c60b7c148396/6964ce96af847f92396f8125_5eecdaf48460cde5168d798d8b874f4fc7228d1cc6f2c29475b8339e1c4c2483f728f271dbcdaa6639e8703ac5556d0d211a5b1947333f11a6944ff028cecb662617ac8c776979b158379f5ccadf2360d5b5d338bb882c2638d07168ac0cfd52.gif" alt="Ciudad Cyberpunk" width="600">
@@ -66,8 +61,8 @@ Utilizo badges en tonos rojos y grises para resaltar mis skills:
 
 - **Email:** kikejara04@gmail.com
 - **LinkedIn:** [linkedin.com/in/kikenator]()
-- **Instagram:** [@ej.escoabr_](https://www.instagram.com/ej.escobar_?igsh=MTh4ZHJjYTBjNmkyeQ==)
-- **Sitio Web:** [kikenator](https://youtube.com/@kikenatorgameplay?si=bLK8JP50DSv6lEjq)
+- **Instagram:** [Ig/@ej.escobar_](https://www.instagram.com/ej.escobar_?igsh=MTh4ZHJjYTBjNmkyeQ==)
+- **YouTube:** [KikeNator](https://youtube.com/@kikenatorgameplay?si=bLK8JP50DSv6lEjq)
 
 ¡Conéctate conmigo para colaboraciones futuristas!
 
